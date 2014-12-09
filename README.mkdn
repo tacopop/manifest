@@ -1,3 +1,0 @@
-To sync to build Sabermod CM branch:
-
-	repo init -u git://github.com/RobbieL811/platform_manifest.git -b sm-cm
