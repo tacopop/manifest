@@ -555,6 +555,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="RobbieL811/Sabermod" remote="github" revision="arm-eabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/Sabermod" remote="github" revision="androideabi-4.8" />
   <!-- Vendor Blobs -->
-  <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
+  <project name="RobbieL811/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
+  <project name="RobbieL811/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
 </manifest>
