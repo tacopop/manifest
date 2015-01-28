@@ -565,4 +565,5 @@
   <!-- Vendor Blobs -->
   <project name="RobbieL811/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
   <project name="RobbieL811/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
 </manifest>
