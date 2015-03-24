@@ -582,7 +582,7 @@
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <!-- Sabermod Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="RobbieL811/uber-arm-eabi-4.9" remote="bit" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/sm-androideabi-4.8" remote="bit" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/uber-androideabi-4.8" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" name="SaberMod/x86_64-linux-4.9" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="SaberMod/x86_64-linux-4.9" remote="github" revision="master" />
   <!-- Vendor Blobs -->
