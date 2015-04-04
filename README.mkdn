@@ -1,3 +1,7 @@
-To sync to build Sabermod CM branch:
+To sync to build Sabermod CM-12.0:
 
-	repo init -u git://github.com/RobbieL811/manifest.git -b sm-cm
+	repo init -u git://github.com/SabermodCM/manifest.git -b sm-cm-12.0
+
+Then run:
+
+    repo sync
