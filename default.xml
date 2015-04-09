@@ -590,6 +590,7 @@
   <!-- Vendor Blobs -->
   <project path="vendor/oppo" name="UberCM/proprietary_vendor_oppo" remote="github" revision="cm-12.1" />
   <project path="vendor/oneplus" name="UberCM/proprietary_vendor_oneplus" remote="github" revision="cm-12.1" />
-  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.1" />
   <project path="vendor/lge" name="UberCM/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
+  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.1" />
+  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-12.1" />
 </manifest>
