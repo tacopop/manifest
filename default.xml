@@ -21,7 +21,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="SabermodCM/android_build" remote="github" revision="cm-12.0" >
+  <project path="build" name="UberCM/android_build" remote="github" revision="cm-12.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -334,7 +334,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="SabermodCM/frameworks_base" remote="github" revision="cm-12.0" />
+  <project path="frameworks/base" name="UberCM/frameworks_base" remote="github" revision="cm-12.0" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
@@ -442,7 +442,7 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/CameraNext" name="SabermodCM/packages_apps_CameraNext" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/CameraNext" name="UberCM/packages_apps_CameraNext" remote="github" revision="cm-12.1" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
@@ -454,7 +454,7 @@
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
-  <project path="packages/apps/Dialer" name="SabermodCM/packages_apps_Dialer" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/Dialer" name="UberCM/packages_apps_Dialer" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
@@ -470,7 +470,7 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
-  <project path="packages/apps/Settings" name="SabermodCM/packages_apps_Settings" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/Settings" name="UberCM/packages_apps_Settings" remote="github" revision="cm-12.0" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -483,7 +483,7 @@
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="SabermodCM/packages_inputmethods_LatinIME" remote="github" revision="cm-12.0" />
+  <project path="packages/inputmethods/LatinIME" name="UberCM/packages_inputmethods_LatinIME" remote="github" revision="cm-12.0" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
@@ -499,7 +499,7 @@
   <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />
   <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" />
   <project path="packages/services/Telecomm" name="CyanogenMod/android_packages_services_Telecomm" />
-  <project path="packages/services/Telephony" name="SabermodCM/packages_services_Telephony" remote="github" revision="cm-12.0" />
+  <project path="packages/services/Telephony" name="UberCM/packages_services_Telephony" remote="github" revision="cm-12.0" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -581,13 +581,13 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" />
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
-  <project path="vendor/cm" name="SabermodCM/vendor_cm" remote="github" revision="cm-12.0" />
+  <project path="vendor/cm" name="UberCM/vendor_cm" remote="github" revision="cm-12.0" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <!-- UBER Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9" name="RobbieL811/uber-arm-eabi-4.9" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/uber-androideabi-4.8" remote="bit" revision="master" />
   <!-- Vendor Blobs -->
-  <project path="vendor/oppo" name="SabermodCM/proprietary_vendor_oppo" remote="github" revision="cm-12.0" />
-  <project path="vendor/oneplus" name="SabermodCM/proprietary_vendor_oneplus" remote="github" revision="cm-12.0" />
+  <project path="vendor/oppo" name="UberCM/proprietary_vendor_oppo" remote="github" revision="cm-12.0" />
+  <project path="vendor/oneplus" name="UberCM/proprietary_vendor_oneplus" remote="github" revision="cm-12.0" />
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-12.0" />
 </manifest>
