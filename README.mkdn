@@ -1,6 +1,6 @@
 To sync to build Sabermod CM-12.1:
 
-    repo init -u git://github.com/SabermodCM/manifest.git -b sm-cm-12.1
+    repo init -u git://github.com/UberCM/manifest.git -b uber-cm-12.1
 
 Then run:
 
