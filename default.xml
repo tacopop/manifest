@@ -587,6 +587,7 @@
   <project path="vendor/cm" name="UberCM/vendor_cm" remote="github" revision="cm-12.1" />
   <!-- Sabermod Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.8" name="RobbieL811/uber-arm-eabi-4.8" remote="bit" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9" name="RobbieL811/uber-arm-eabi-4.9" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9_cortex_a15" name="RobbieL811/uber-arm-eabi-4.9_cortex_a15" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/uber-androideabi-4.8" remote="bit" revision="master" />
   <!-- Vendor Blobs -->
