@@ -580,7 +580,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9_cortex_a15" name="RobbieL811/uber-arm-eabi-4.9_cortex_a15" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-5.0" name="RobbieL811/uber-arm-eabi-5.0" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-6.0" name="RobbieL811/uber-arm-eabi-6.0" remote="bit" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="RobbieL811/uber-androideabi-4.8" remote="bit" revision="master" />
   <!-- Vendor Blobs -->
   <project path="vendor/oppo" name="UberCM/proprietary_vendor_oppo" remote="github" revision="cm-12.1" />
   <project path="vendor/oneplus" name="UberCM/proprietary_vendor_oneplus" remote="github" revision="cm-12.1" />
