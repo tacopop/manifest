@@ -1,8 +1,11 @@
 To sync to build Sabermod CM-12.1:
 
-    repo init -u git://github.com/UberCM/manifest.git -b uber-cm-12.1
+    repo init -u git://github.com/tacopop/manifest.git -b uber-cm-12.1
 
 Then run:
 
     repo sync
+    source build/envsetup.sh
+    breakfast bacon
+    brunch bacon
 
